@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="OpenOCDDebugAdaptorPackage">
   <Name>OpenOCD Debug Adaptor</Name>
-  <Version>0.8.0</Version>
+  <Version>0.9.0</Version>
   <Description>Installs the OpenOCD Debug interface to allow debugging of any project.</Description>
   <RepoUri>https://github.com/danwalmsley/VEOpenOCDDebugger.git</RepoUri>
-  <Executable>bin\openocd-0.8.0</Executable>
+  <Executable>bin\openocd-0.9.0</Executable>
 </Package>
